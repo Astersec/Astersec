@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Astersec
 - 👀 I’m interested in Cyber Security 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Red Teaming and Penetration testing
 - 📫 How to reach me : https://astersec.github.io/
 
 <!---
