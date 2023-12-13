@@ -15,10 +15,7 @@
 I thrive on the frontline of cybersecurity, executing red team exercises to emulate real-world threats. My passion lies in dissecting systems, uncovering weaknesses, and orchestrating strategic defenses to empower organizations against potential cyber adversaries.
 
 🔒 Certifications:
-I've earned certifications validating my expertise in ethical hacking, penetration testing, and cyber defense. These certifications serve as testament to my commitment to staying at the forefront of this ever-evolving field.
-
-📧 Contact:
-Let's collaborate to strengthen your digital fortress. Whether you seek proactive security measures, need assistance in vulnerability assessments, or wish to discuss a project, reach out to me at Ankitkumarsinha213@gmail.com Together, we'll bolster your digital security.
+I've earned certifications from Tryhackme and others those are validating my expertise in ethical hacking, penetration testing, and cyber defense. These certifications serve as testament to my commitment to staying at the forefront of this ever-evolving field.
 
 Explore my world of cyber resilience, where proactive measures and astute defense strategies converge to safeguard what matters most - your digital footprint.hallenges has been my favorite pastime. I enjoy the thrill of cracking codes, solving puzzles, and overcoming complex cybersecurity challenges.
 OSINT (Open Source Intelligence): I have a keen interest in gathering intelligence from publicly available sources to better understand potential threats and enhance cybersecurity measures.
