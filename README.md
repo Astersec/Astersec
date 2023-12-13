@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Astersec
-- 👀 I’m interested in Cyber Security 
-- 🌱 I’m currently learning Red Teaming and Penetration testing
-- 📫 How to reach me : https://astersec.github.io/
+- Hi there! I'm  Ankit kumar sinha ,
+- A Cybersecurity Enthusiastic Student.
+- Passionate about Red Teaming And Ethical Hacking, I love exploring the world of cybersecurity.
+
 
 <!---
 Astersec/Astersec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
