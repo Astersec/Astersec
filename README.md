@@ -1,4 +1,4 @@
-- Hi there! I'm  Ankit kumar sinha ,
+- Hi there! Myself  Ankit kumar sinha ,
 - A Cybersecurity Enthusiastic Student.
 - Passionate about Red Teaming And Ethical Hacking,
 -  I love to  explore the world of cybersecurity.
