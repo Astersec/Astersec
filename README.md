@@ -31,6 +31,4 @@ Digital Investigation: I am intrigued by the process of investigating digital in
 # Profile
 <img src="https://tryhackme-badges.s3.amazonaws.com/4steroid.png" alt="TryHackMe">
 
-# Tryhackme Badges 
-<img src="https://tryhackme.com/4steroid/badges/adventofcyber5" alt="TryHackMe">
 
