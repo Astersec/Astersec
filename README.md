@@ -10,7 +10,7 @@
 -  I love to  explore the world of cybersecurity.
 -  I am Currently Learning Python 
 
-# 🛡️ As a Cyber Security Red Teamer and Ethical Hacker, I navigate the digital realm with a mission - to fortify systems, challenge vulnerabilities, and safeguard your digital existence. Welcome to my corner of the web, where innovation meets resilience and security reigns supreme.
+🛡️ As a Cyber Security Red Teamer and Ethical Hacker, I navigate the digital realm with a mission - to fortify systems, challenge vulnerabilities, and safeguard your digital existence. Welcome to my corner of the web, where innovation meets resilience and security reigns supreme.
 
 # 🔍 About Me:
 I thrive on the frontline of cybersecurity, executing red team exercises to emulate real-world threats. My passion lies in dissecting systems, uncovering weaknesses, and orchestrating strategic defenses to empower organizations against potential cyber adversaries.
