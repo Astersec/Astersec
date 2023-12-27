@@ -26,5 +26,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
+# Profile
 <img src="https://tryhackme-badges.s3.amazonaws.com/4steroid.png" alt="TryHackMe">
+
+# Badges
+<img src="https://tryhackme.com/img/badges/wreath.svg" alt="TryHackMe">
