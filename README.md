@@ -29,7 +29,7 @@ Explore my world of cyber resilience, where proactive measures and astute defens
 * shell [scripting]
 
 # Tech Stack 
-<img src="https://img.stackshare.io/service/993/pUBY5pVj.png" width="50" height="50"> ; <img src="https://img.stackshare.io/service/1673/bash-icon.png" width="50" height="50">
+<img src="https://img.stackshare.io/service/993/pUBY5pVj.png" width="50" height="50">  <img src="https://img.stackshare.io/service/1673/bash-icon.png" width="50" height="50">
 
 # Tryhackme Profile
 <img src="https://tryhackme-badges.s3.amazonaws.com/4steroid.png" alt="TryHackMe">
